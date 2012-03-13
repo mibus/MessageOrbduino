@@ -36,6 +36,6 @@ void loop () {
   } else {
     digitalWrite(ORBPIN,LOW);
   }
-  delay(100);
+  delay(5);
 }
 
